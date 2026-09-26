@@ -1,0 +1,21 @@
+THIRD-PARTY NOTICES
+
+Cornerlight includes open-source components obtained through Gradle.
+These components retain their original licenses.
+
+The following runtime component families are licensed under the
+Apache License, Version 2.0:
+
+- AndroidX Core, Activity, Lifecycle, and ExifInterface
+- Jetpack Compose, Material 3, and Material Icons
+- Kotlin Standard Library
+- Kotlinx Coroutines
+- JetBrains Annotations
+- JSpecify
+- Guava ListenableFuture
+
+The complete Apache License 2.0 text is distributed in this directory
+as Apache-2.0.txt.
+
+Exact dependency versions are defined by the project's Gradle version
+catalog and resolved dependency graph.

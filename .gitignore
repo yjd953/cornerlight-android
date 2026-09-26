@@ -1,0 +1,27 @@
+# Android Studio and Gradle
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+*.iml
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Signing credentials
+*.jks
+*.keystore
+*.p12
+keystore.properties
+
+# Native build outputs
+.cxx/
+.externalNativeBuild/
+
+# Local scratch / temp files
+*.tmp
+*.log
+*.bak
+*.swp
