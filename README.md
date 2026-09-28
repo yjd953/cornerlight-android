@@ -1,5 +1,13 @@
 # 隅光 · 九宫切图
 
+<p align="center">
+  <a href="README.en.md">English</a> |
+  <a href="README.de.md">Deutsch</a> |
+  <strong>简体中文</strong> |
+  <a href="README.zh-TW.md">繁體中文</a> |
+  <a href="README.fa.md">فارسی</a>
+</p>
+
 独立原生 Android 客户端，Google Play 应用 ID 为 `app.cornerlight.ninegrid`。使用 Kotlin、Jetpack Compose 和 Android 平台 API 实现，不依赖 WebView、浏览器版或后端服务。
 
 架构、数据流、权限矩阵、内存策略、测试分层和新人接手顺序见 [总体方案设计](docs/architecture.md)。
